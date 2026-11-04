@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "processor_revision": "il2cpp-prebuild-v7-cross-platform",
-  "il2cpp_so_sha256": "820b1c4f346f2fa837a1de8987a339b7a0e33d44c567803a30918b4a472a5dda",
+  "il2cpp_so_sha256": "5effbd5345be604a9fa1cdecec4c09b5a19a2972959ab5c82e732a3a64c4a2c4",
   "global_metadata_sha256": "079b15288b6995bac1d5d0edc295a63e970e8a6aa12084d0a6c22ee7f9812512",
   "unity_version": "6000.3.25f1",
   "unity_template_version": "22",
@@ -10,7 +10,7 @@
     "arm64-v8a"
   ],
   "target_sdk": 36,
-  "application_id": "com.yangel.TrashDashVR",
+  "application_id": "com.yangel.TrashDashSpatial",
   "native_inventory": [
     {
       "name": "lib_burst_generated.so",
@@ -18,7 +18,7 @@
     },
     {
       "name": "libil2cpp.so",
-      "sha256": "820b1c4f346f2fa837a1de8987a339b7a0e33d44c567803a30918b4a472a5dda"
+      "sha256": "5effbd5345be604a9fa1cdecec4c09b5a19a2972959ab5c82e732a3a64c4a2c4"
     },
     {
       "name": "libmain.so",
@@ -45,5 +45,5 @@
       "sha256": "7436a2d6369ee0efa7a56b490c9d90510a5824768a2cc7c185c0ed15ff74b87d"
     }
   ],
-  "generated_at": "2026-11-04T02:54:44.192110+00:00"
+  "generated_at": "2026-11-04T07:11:10.294827+00:00"
 }

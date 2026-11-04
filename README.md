@@ -14,7 +14,7 @@ The editable Unity project is maintained separately. Any gameplay, scene, packag
 
 - Unity: 6000.3.25f1
 - Mode: PICO Spatial / Shared Space
-- Android application ID: `com.yangel.TrashDashVR`
+- Android application ID: `com.yangel.TrashDashSpatial`
 - Version: 1.3
 - Backend / ABI: IL2CPP / ARM64
 - Minimum Android SDK: 29

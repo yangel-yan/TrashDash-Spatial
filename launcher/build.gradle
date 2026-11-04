@@ -8,7 +8,7 @@ dependencies {
 }
 
 android {
-    namespace "com.yangel.TrashDashVR"
+    namespace "com.yangel.TrashDashSpatial"
 
     if (System.getenv("ANDROID_NDK_HOME")) {
         ndkPath System.getenv("ANDROID_NDK_HOME")
@@ -23,7 +23,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.yangel.TrashDashVR"
+        applicationId "com.yangel.TrashDashSpatial"
         versionName "1.3"
         minSdk 29
         targetSdk 36

@@ -1,6 +1,6 @@
 app:
   id: "7703608857427329039"
-  name: "TrashDash 垃圾跑酷·空间版"
+  name: "TrashDash-Spatial"
   slogan: "在立体跑酷窗口里换道、跳跃、滑铲，收集鱼骨挑战更高分。"
   description: |
     TrashDash 垃圾跑酷·空间版是一款面向 PICO Spatial 的休闲跑酷游戏。
@@ -19,6 +19,7 @@ app:
 version:
   name: "1.3"
   notes: |
+    修复上一轮包名占用问题，应用包名更新为 com.yangel.TrashDashSpatial，并重新导出完整 Unity Spatial 构建。
     首个 PICO Vibe Lab 开发预览版本。
     提供 Shared Space 立体跑酷窗口、空间按钮与捏合短拖、中文界面、角色配饰商店和本地存档。
     应用详情图为 Unity Editor 开发预览截图。实体头显上的原生命中、拖动手感及性能仍待验证。
