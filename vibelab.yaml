@@ -1,0 +1,32 @@
+app:
+  name: "TrashDash 垃圾跑酷·空间版"
+  slogan: "在立体跑酷窗口里换道、跳跃、滑铲，收集鱼骨挑战更高分。"
+  description: |
+    TrashDash 垃圾跑酷·空间版是一款面向 PICO Spatial 的休闲跑酷游戏。
+    跟随小猫穿过街道，左右换道、跳跃或滑铲躲避障碍，收集鱼骨，挑战自己的最高分。
+    游戏以固定视角的立体窗口呈现，支持空间指针按钮和捏合短拖操作，并保留角色、配饰、道具、任务、商店与本地进度。
+    本版本为开发预览。
+  tags: ["跑酷", "休闲", "空间游戏"]
+  category: game
+  icon: vibelab-assets/icon.png
+  landscape: vibelab-assets/landscape.png
+  detail_images:
+    - vibelab-assets/detail-gameplay.png
+    - vibelab-assets/detail-shop.png
+    - vibelab-assets/detail-menu.png
+  videos: []
+version:
+  name: "1.3"
+  notes: |
+    首个 PICO Vibe Lab 开发预览版本。
+    提供 Shared Space 立体跑酷窗口、空间按钮与捏合短拖、中文界面、角色配饰商店和本地存档。
+    应用详情图为 Unity Editor 开发预览截图。实体头显上的原生命中、拖动手感及性能仍待验证。
+build:
+  repo_url: "https://github.com/yangel-yan/TrashDash-Spatial"
+  repo_visibility: public
+  tech_stack: unity
+  ai_tool: Trae CLI
+  ai_model: GPT-6
+  features:
+    - hand_tracking
+  teammates: []

@@ -1,0 +1,2 @@
+Assets/UnityTechnologies/Endless Runner/Scenes/Main.unity
+Assets/UnityTechnologies/Endless Runner/Scenes/Shop.unity
