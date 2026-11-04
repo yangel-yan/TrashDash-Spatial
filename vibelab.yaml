@@ -1,4 +1,5 @@
 app:
+  id: "7703608857427329039"
   name: "TrashDash 垃圾跑酷·空间版"
   slogan: "在立体跑酷窗口里换道、跳跃、滑铲，收集鱼骨挑战更高分。"
   description: |
@@ -6,7 +7,7 @@ app:
     跟随小猫穿过街道，左右换道、跳跃或滑铲躲避障碍，收集鱼骨，挑战自己的最高分。
     游戏以固定视角的立体窗口呈现，支持空间指针按钮和捏合短拖操作，并保留角色、配饰、道具、任务、商店与本地进度。
     本版本为开发预览。
-  tags: ["跑酷", "休闲", "空间游戏"]
+  tags: [ "跑酷", "休闲", "空间游戏" ]
   category: game
   icon: vibelab-assets/icon.png
   landscape: vibelab-assets/landscape.png
