@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "processor_revision": "il2cpp-prebuild-v7-cross-platform",
-  "il2cpp_so_sha256": "5effbd5345be604a9fa1cdecec4c09b5a19a2972959ab5c82e732a3a64c4a2c4",
-  "global_metadata_sha256": "079b15288b6995bac1d5d0edc295a63e970e8a6aa12084d0a6c22ee7f9812512",
+  "il2cpp_so_sha256": "1637474571940e0683a6ee9bed74a226917d029a7913e55bd42f509618f16812",
+  "global_metadata_sha256": "44b6bbed8ef4455ed389f3e8bcae1288c3e20e31d203b38dad87d668b1fd1a4d",
   "unity_version": "6000.3.25f1",
   "unity_template_version": "22",
   "ndk_version": "27.2.12479018",
@@ -14,11 +14,11 @@
   "native_inventory": [
     {
       "name": "lib_burst_generated.so",
-      "sha256": "90e25900369d64811d759029b18245e43d01fcb6fa77759d3bdc35d85b537c1f"
+      "sha256": "5b9c2fa706f2feaaa3237bff63914148850acf1571650074f68d61cb9ed4f754"
     },
     {
       "name": "libil2cpp.so",
-      "sha256": "5effbd5345be604a9fa1cdecec4c09b5a19a2972959ab5c82e732a3a64c4a2c4"
+      "sha256": "1637474571940e0683a6ee9bed74a226917d029a7913e55bd42f509618f16812"
     },
     {
       "name": "libmain.so",
@@ -38,12 +38,12 @@
     },
     {
       "name": "libunity.so",
-      "sha256": "47715b80d1eb3a847cd053edbf2326c29734f5d26bdb5247cf4b0a8a476772b8"
+      "sha256": "ee2851bd201eb86fc8a527b8b1752e8fea61cc942afacb89e8aa14e8c5695c73"
     },
     {
       "name": "libUnityOpenXRHands.so",
       "sha256": "7436a2d6369ee0efa7a56b490c9d90510a5824768a2cc7c185c0ed15ff74b87d"
     }
   ],
-  "generated_at": "2026-11-04T07:11:10.294827+00:00"
+  "generated_at": "2026-11-10T06:48:29.784520+00:00"
 }

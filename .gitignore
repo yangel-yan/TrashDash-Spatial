@@ -10,3 +10,5 @@ local.properties
 *.log
 **/Il2CppOutputProject/
 **/*_BurstDebugInformation_DoNotShip/
+/.pico-env.json
+/assets/
